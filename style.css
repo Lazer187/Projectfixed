@@ -1,0 +1,21 @@
+.line{
+    width:70px;
+    height:7px;
+    background-color: chocolate;
+    margin:8px auto;
+}
+h1{
+    color: darkslateblue;
+}
+
+body{
+    text-align: center;
+
+
+}
+#chatbot{
+    background-color: chocolate;
+    padding: 3px;
+    
+}
+
